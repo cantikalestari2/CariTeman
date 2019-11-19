@@ -9,17 +9,17 @@ Aplikasi ini sangat mudah dan aman digunakan karena sebelum register, masing - m
 #### 1. Login
 ![alt text](https://github.com/cantikalestari2/CariTeman/blob/master/screenshots/login.jpeg)
 #### 2. Register
-![alt text](https://github.com/cantikalestari2/CariTeman/screenshots/register.jpeg)
+![alt text](https://github.com/cantikalestari2/CariTeman/blob/master/screenshots/register.jpeg)
 #### 3. Register Detail
-![alt text](https://github.com/cantikalestari2/CariTeman/screenshots/registerdetail.jpeg)
+![alt text](https://github.com/cantikalestari2/CariTeman/blob/master/screenshots/registerdetail.jpeg)
 #### 4. Sliding Menu
-![alt text](https://github.com/cantikalestari2/CariTeman/screenshots/menu.jpeg)
+![alt text](https://github.com/cantikalestari2/CariTeman/blob/master/screenshots/menu.jpeg)
 #### 5. Profile Customer
-![alt text](https://github.com/cantikalestari2/CariTeman/screenshots/profilecustomer.jpeg)
+![alt text](https://github.com/cantikalestari2/CariTeman/blob/master/screenshots/profilecustomer.jpeg)
 #### 6. Home
-![alt text](https://github.com/cantikalestari2/CariTeman/screenshots/home.jpeg)
+![alt text](https://github.com/cantikalestari2/CariTeman/blob/master/screenshots/home.jpeg)
 #### 7. Profile User
-![alt text]https://github.com/cantikalestari2/CariTeman/screenshots/profileuser.jpeg)
+![alt text](https://github.com/cantikalestari2/CariTeman/blob/master/screenshots/profileuser.jpeg)
 
 ### Built With
 - Stateless Widget, Stateful Widget, Column, Row, SplashScreen, ListView, GridView, Card, BottomNavigationBar, FormField, DropdownMenuItem, ListTile
