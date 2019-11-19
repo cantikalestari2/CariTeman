@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Carmen ({{ UTS Pemrograman Mobile / tugas }})
 =======
 
@@ -8,7 +7,7 @@ Aplikasi ini sangat mudah dan aman digunakan karena sebelum register, masing - m
 
 ### Screenshot
 #### 1. Login
-![alt text](https://github.com/cantikalestari2/CariTeman/screenshots/login.jpeg)
+![alt text](https://github.com/cantikalestari2/CariTeman/blob/master/screenshots/login.jpeg)
 #### 2. Register
 ![alt text](https://github.com/cantikalestari2/CariTeman/screenshots/register.jpeg)
 #### 3. Register Detail
