@@ -1,4 +1,4 @@
-# Carmen ({{ UTS Pemrograman Mobile / tugas }})
+# Carmen ({{ UTS Pemrograman Mobile }})
  CAMEN itu sendiri singkatan dari Cari Temen yang merupakan sebuah aplikasi untuk mencari teman terdekat dimana tempat kita berada. Aplikasi ini dapat membantu kita menemukan seorang teman stranger yang akan di pickup secara random yang nantinya akan bertemu.
 
 Aplikasi ini sangat mudah dan aman digunakan karena sebelum register, masing - masing user harus menginput identitas lengkapnya untuk menghindari hal - hal yang merugikan pihak lain.
