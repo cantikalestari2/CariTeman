@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Carmen ({{ UTS Pemrograman Mobile / tugas }})
+=======
+# Carmen ({{ UTS Pemrograman Mobile }})
+>>>>>>> 8bfa31d1f53237fc4028da40994806cf7d87be0d
  CAMEN itu sendiri singkatan dari Cari Temen yang merupakan sebuah aplikasi untuk mencari teman terdekat dimana tempat kita berada. Aplikasi ini dapat membantu kita menemukan seorang teman stranger yang akan di pickup secara random yang nantinya akan bertemu.
 
 Aplikasi ini sangat mudah dan aman digunakan karena sebelum register, masing - masing user harus menginput identitas lengkapnya untuk menghindari hal - hal yang merugikan pihak lain.
@@ -52,4 +56,8 @@ Alamat : Matana University Tower.Jl. CBD Barat Kav. 1. Gading Serpong Tangerang 
 
 ---
 
+<<<<<<< HEAD
 ###### tags: `Sample` `Matana University` `Pemprograman Mobile ` `Tugas`
+=======
+###### tags: `Sample` `Matana University` `Pemprograman Mobile ` `Tugas`
+>>>>>>> 8bfa31d1f53237fc4028da40994806cf7d87be0d
