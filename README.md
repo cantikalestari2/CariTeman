@@ -54,8 +54,6 @@ Alamat : Matana University Tower.Jl. CBD Barat Kav. 1. Gading Serpong Tangerang 
 
 ---
 
-<<<<<<< HEAD
 ###### tags: `Sample` `Matana University` `Pemprograman Mobile ` `Tugas`
 =======
 ###### tags: `Sample` `Matana University` `Pemprograman Mobile ` `Tugas`
->>>>>>> 8bfa31d1f53237fc4028da40994806cf7d87be0d
