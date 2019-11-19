@@ -25,13 +25,13 @@ Aplikasi ini sangat mudah dan aman digunakan karena sebelum register, masing - m
 - Stateless Widget, Stateful Widget, Column, Row, SplashScreen, ListView, GridView, Card, BottomNavigationBar, FormField, DropdownMenuItem, ListTile
 
 ### Created By
-- Krista Nadella
-    - Register
+- Krista Nadella (NILAI = 65)
+    - Register 
     - Profile User
-- Isabella Ardani
+- Isabella Ardani (NILAI = 65)
     - Profile Customer
     - Menu
-- Cantika Lestari Budiarti
+- Cantika Lestari Budiarti (NILAI = 65)
     - Home
     - Login
 ---
