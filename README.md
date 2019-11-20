@@ -26,16 +26,16 @@ Aplikasi ini sangat mudah dan aman digunakan karena sebelum register, masing - m
 
 ### Created By
 - Krista Nadella 
-    - Register (10)
+    - Register (5)
     - Profile User (15)
 - Isabella Ardani 
-    - Profile Customer (10)
+    - Profile Customer (15)
     - Menu (10)
 - Cantika Lestari Budiarti 
-    - Home (10)
+    - Home (5)
     - Login (10)
     
-    Total Nilai (65)
+    Total Nilai (60)
 ---
 ### Mata Kuliah 
 COE-5109 Pemprograman Mobile. 
