@@ -26,14 +26,14 @@ Aplikasi ini sangat mudah dan aman digunakan karena sebelum register, masing - m
 
 ### Created By
 - Krista Nadella 
-    - Register (10)
+    - Register (5)
     - Profile User (15)
 - Isabella Ardani 
-    - Profile Customer (15)
-    - Menu (5)
+    - Profile Customer (10)
+    - Menu (10)
 - Cantika Lestari Budiarti 
     - Home (5)
-    - Login (10)
+    - Login (15)
     
     Total Nilai (60)
 ---
