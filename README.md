@@ -35,7 +35,7 @@ Aplikasi ini sangat mudah dan aman digunakan karena sebelum register, masing - m
     - Home (5)
     - Login (15)
     
-    Total Nilai (65)
+    Total Nilai (60)
 ---
 ### Mata Kuliah 
 COE-5109 Pemprograman Mobile. 
