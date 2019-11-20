@@ -25,15 +25,17 @@ Aplikasi ini sangat mudah dan aman digunakan karena sebelum register, masing - m
 - Stateless Widget, Stateful Widget, Column, Row, SplashScreen, ListView, GridView, Card, BottomNavigationBar, FormField, DropdownMenuItem, ListTile
 
 ### Created By
-- Krista Nadella (NILAI = 65)
-    - Register 
-    - Profile User
-- Isabella Ardani (NILAI = 65)
-    - Profile Customer
-    - Menu
-- Cantika Lestari Budiarti (NILAI = 65)
-    - Home
-    - Login
+- Krista Nadella 
+    - Register (10)
+    - Profile User (15)
+- Isabella Ardani 
+    - Profile Customer (10)
+    - Menu (10)
+- Cantika Lestari Budiarti 
+    - Home (10)
+    - Login (10)
+    
+    Total Nilai (65)
 ---
 ### Mata Kuliah 
 COE-5109 Pemprograman Mobile. 
