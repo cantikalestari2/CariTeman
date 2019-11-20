@@ -26,11 +26,11 @@ Aplikasi ini sangat mudah dan aman digunakan karena sebelum register, masing - m
 
 ### Created By
 - Krista Nadella 
-    - Register (5)
+    - Register (10)
     - Profile User (15)
 - Isabella Ardani 
     - Profile Customer (15)
-    - Menu (10)
+    - Menu (5)
 - Cantika Lestari Budiarti 
     - Home (5)
     - Login (10)
